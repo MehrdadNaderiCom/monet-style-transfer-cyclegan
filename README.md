@@ -26,12 +26,9 @@ The repository is organized as follows:
 > - Monet_Style_Transfer.ipynb  # Main Jupyter notebook for the project
 >
 > images/
-> - photo_sample.jpg            # Example real-world photo
-> - monet_sample.jpg            # Generated Monet-style painting
+> - images.zip
 >
 > README.md                     # Project overview and instructions
->
-> requirements.txt              # Required Python packages
 
 ---
 
@@ -57,7 +54,6 @@ The repository is organized as follows:
 - Python 3.7+
 - TensorFlow 2.x
 - Matplotlib, NumPy, Pandas
-- Kaggle API (for dataset download)
 
 ### **Steps to Run**
 1. Clone the repository:
@@ -86,18 +82,6 @@ The repository is organized as follows:
 
 ---
 
-## **Results**
-
-### **Sample Transformations**
-| Original Photo | Monet-Style Output |
-|----------------|---------------------|
-| ![Photo](images/photo_sample.jpg) | ![Monet](images/monet_sample.jpg) |
-
-### **MiFID Score**
-- Achieved a MiFID score of **X.XX** (lower is better), demonstrating high-quality transformations.
-
----
-
 ## **Future Improvements**
 - Fine-tuning model hyperparameters for better output quality.
 - Increasing training epochs for improved consistency.
@@ -111,13 +95,8 @@ The repository is organized as follows:
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## **Contact**
 For questions or feedback, feel free to contact:
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [YourUsername](https://github.com/YourUsername)
+- **Name:** Mehrdad Naderi
+- **Email:** mail@mehrdadnaderi.com
+- **GitHub:** [MehrdadNaderiCom](https://github.com/MehrdadNaderiCom)
